@@ -30,7 +30,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## A new repo from an existing project:
 
 git init
+
 git add .
+
 git commit -m "Initial Push"
 
 Add a repo on github
